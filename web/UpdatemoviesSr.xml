@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="xsltMovie.xsl"?><movies>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="xsltMovie.xsl"?>
+<movies>
 
     <film>
         <title>Paranormal Activity</title>
@@ -8,6 +10,8 @@
         </types>
         <time>86 min</time>
         <director>Oren Peli</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -18,6 +22,8 @@
         </types>
         <time>91 min</time>
         <director>Tod Williams</director>
+        <chapter>1</chapter>
+        <Resolution>1980*1080</Resolution>
     </film>
 
     <film>
@@ -30,6 +36,8 @@
         </types>
         <time>103 min</time>
         <director>James Wan</director>
+        <chapter>1</chapter>
+        <Resolution>1980*1080</Resolution>
     </film>
 
     <film>
@@ -42,6 +50,8 @@
         </types>
         <time>106 min</time>
         <director>James Wan</director>
+        <chapter>1</chapter>
+        <Resolution>1980*1080</Resolution>
     </film>
 
     <film>
@@ -54,6 +64,8 @@
         </types>
         <time>84 min</time>
         <director>Christopher Landon</director>
+        <chapter>1</chapter>
+        <Resolution>1980*1080</Resolution>
     </film>
 
     <film>
@@ -66,6 +78,8 @@
         </types>
         <time>80 min</time>
         <director>John Erick Dowdle</director>
+        <chapter>1</chapter>
+        <Resolution>1980*1080</Resolution>
     </film>
 
     <film>
@@ -76,6 +90,8 @@
         </types>
         <time>81 min</time>
         <director>David F. Sandberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -88,6 +104,8 @@
         </types>
         <time>104 min</time>
         <director>Dan Trachtenberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -100,6 +118,8 @@
         </types>
         <time>85 min</time>
         <director>Matt Reeves</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -112,6 +132,8 @@
         </types>
         <time>99 min</time>
         <director>Christopher Smith</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -123,6 +145,8 @@
         </types>
         <time>115 min</time>
         <director>Steven Spielberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -134,6 +158,8 @@
         </types>
         <time>118 min</time>
         <director>Steven Spielberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -146,6 +172,8 @@
         </types>
         <time>127 min</time>
         <director>Steven Spielberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -158,6 +186,8 @@
         </types>
         <time>122 min</time>
         <director>Steven Spielberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -170,6 +200,8 @@
         </types>
         <time>125 min</time>
         <director>Stephen Sommers</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -182,6 +214,8 @@
         </types>
         <time>130 min</time>
         <director>Stephen Sommers</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -194,6 +228,8 @@
         </types>
         <time>112 min</time>
         <director>Rob Cohen</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -206,6 +242,8 @@
         </types>
         <time>131 min</time>
         <director>Stephen Sommers</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -218,6 +256,8 @@
         </types>
         <time>122 min</time>
         <director>Guillermo del Toro</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -230,6 +270,8 @@
         </types>
         <time>120 min</time>
         <director>Guillermo del Toro</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -241,6 +283,8 @@
         </types>
         <time>117 min</time>
         <director>Joel Coen</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -253,6 +297,8 @@
         </types>
         <time>97 min</time>
         <director>Andrew Stanton</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -264,6 +310,8 @@
         </types>
         <time>150 min</time>
         <director>Gore Verbinski</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -276,6 +324,8 @@
         </types>
         <time>102 min</time>
         <director>Chris Buck</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -287,6 +337,8 @@
         </types>
         <time>88 min</time>
         <director>Roger Allers</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -299,6 +351,8 @@
         </types>
         <time>103 min</time>
         <director>Lee Unkrich</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -311,6 +365,8 @@
         </types>
         <time>100 min</time>
         <director>Andrew Stanton</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -321,6 +377,8 @@
         </types>
         <time>108 min</time>
         <director>Tim Burton</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -333,6 +391,8 @@
         </types>
         <time>116 min</time>
         <director>John Lasseter</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -343,6 +403,8 @@
         </types>
         <time>97 min</time>
         <director>Robert Stromberg</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -355,6 +417,8 @@
         </types>
         <time>107 min</time>
         <director>Gore Verbinski</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -367,6 +431,8 @@
         </types>
         <time>98 min</time>
         <director>Jodie Foster</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -379,6 +445,8 @@
         </types>
         <time>87 min</time>
         <director>Yarrow Cheney</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -389,6 +457,8 @@
         </types>
         <time>93 min</time>
         <director>Steve Pink</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -401,6 +471,8 @@
         </types>
         <time>105 min</time>
         <director>Ivan Reitman</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -413,6 +485,8 @@
         </types>
         <time>108 min</time>
         <director>Ivan Reitman</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -425,6 +499,8 @@
         </types>
         <time>98 min</time>
         <director>McG</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -437,6 +513,8 @@
         </types>
         <time>139 min</time>
         <director>Neil Burger</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -449,6 +527,8 @@
         </types>
         <time>119 min</time>
         <director>Robert Schwentke</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -461,6 +541,8 @@
         </types>
         <time>120 min</time>
         <director>Robert Schwentke</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -473,6 +555,8 @@
         </types>
         <time>169 min</time>
         <director>Christopher Nolan</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -485,6 +569,8 @@
         </types>
         <time>144 min</time>
         <director>Ridley Scott</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -497,6 +583,8 @@
         </types>
         <time>148 min</time>
         <director>Christopher Nolan</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -509,6 +597,8 @@
         </types>
         <time>115 min</time>
         <director>Louis Leterrier</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -521,6 +611,8 @@
         </types>
         <time>108 min</time>
         <director>Tim Miller</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -533,6 +625,8 @@
         </types>
         <time>130 min</time>
         <director>Christopher Nolan</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -545,6 +639,8 @@
         </types>
         <time>126 min</time>
         <director>Joon-ho Bong</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -557,6 +653,8 @@
         </types>
         <time>180 min</time>
         <director>Martin Scorsese</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -569,6 +667,8 @@
         </types>
         <time>105 min</time>
         <director>Neil Burger</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -581,6 +681,8 @@
         </types>
         <time>103 min</time>
         <director>M. Night Shyamalan</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -592,6 +694,8 @@
         </types>
         <time>140 min</time>
         <director>Christopher Nolan</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -602,6 +706,8 @@
         </types>
         <time>139 min</time>
         <director>David Fincher</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -614,6 +720,8 @@
         </types>
         <time>127 min</time>
         <director>David Fincher</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -626,6 +734,8 @@
         </types>
         <time>144 min</time>
         <director>Frank Darabont</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -637,6 +747,8 @@
         </types>
         <time>142 min</time>
         <director>Robert Zemeckis</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -649,6 +761,8 @@
         </types>
         <time>153 min</time>
         <director>Denis Villeneuve</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -661,6 +775,8 @@
         </types>
         <time>126 min</time>
         <director>Jon Favreau</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -673,6 +789,8 @@
         </types>
         <time>124 min</time>
         <director>Jon Favreau</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -685,6 +803,8 @@
         </types>
         <time>130 min</time>
         <director>Shane Black</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
     <film>
@@ -697,6 +817,8 @@
         </types>
         <time>143 min</time>
         <director>Joss Whedon</director>
+        <chapter>1</chapter>
+        <Resolution>1920*1080</Resolution>
     </film>
 
-<film><title>title</title><year>2016</year><types><type>dscsd</type></types><time>102 min</time><director>ddddd</director></film></movies>
+</movies>

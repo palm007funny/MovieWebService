@@ -229,6 +229,8 @@ public class ReadXML {
         newfilm.appendChild(getMovieElement(doc, "types", ""));
         newfilm.appendChild(getMovieElement(doc, "time", mins));
         newfilm.appendChild(getMovieElement(doc, "director", director));
+        newfilm.appendChild(getMovieElement(doc, "chapter", director));
+        newfilm.appendChild(getMovieElement(doc, "Resolution", director));
         Element addtype = (Element) newfilm.getElementsByTagName("types").item(0);
         //Node addtype = 
         int index = 1;
